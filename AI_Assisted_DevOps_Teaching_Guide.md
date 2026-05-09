@@ -1,5 +1,6 @@
 ---
-marp: true
+marp: false
+theme: gaia
 ---
 
 # AI-Assisted DevOps and Deployment
