@@ -25,3 +25,7 @@ DevOps
 Development
 
 - [Augmented Coding Patterns](https://lexler.github.io/augmented-coding-patterns/)
+
+Learning Roadmap
+
+- [Developers Roadmap by roles or skills](https://roadmap.sh/)
