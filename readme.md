@@ -7,7 +7,7 @@ To capture learning journey on AI assisted devoops and deployment.
 - [Software Development Life Cycle (SDLC)](sdlc.md)
 - [Architecture Patterns](app-architecture-patterns.md)
 - [AI Asssited DevOps and Deployment](AI_Assisted_DevOps_Teaching_Guide.md)
-- [DRAFT Learngin Objective for AI Assisted DevOps and Deployment](Learning_Objective_AI_Assisted_Devope_Deployment.md)
+- [(DRAFT) Learngin Objective for AI Assisted DevOps and Deployment](Learning_Objective_AI_Assisted_Devope_Deployment.md)
 
 ## Resources
 
