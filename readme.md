@@ -9,8 +9,8 @@ To capture learning journey on AI assisted devoops and deployment.
 - [AI Asssited DevOps and Deployment](AI_Assisted_DevOps_Teaching_Guide.md)
 - [(DRAFT) Learngin Objective for AI Assisted DevOps and Deployment](Learning_Objective_AI_Assisted_Devope_Deployment.md)
 - Sampe prompt on a Topic, check out the response.
-  - [by ChatGPT]()
-  - [by Claude]()
+  - [by ChatGPT](ai-devops-deployment-chatgpt.md)
+  - [by Claude](ai-devops-deployment-claude.md)
 
 ## Resources
 
@@ -21,6 +21,8 @@ To capture learning journey on AI assisted devoops and deployment.
 - [DevOps Roadmap](https://roadmap.sh/devops)
 - [DevSecOps Roadmap](https://roadmap.sh/devsecops)
 - [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering#about)
+- [Agentic Coding Handbook](https://tweag.github.io/agentic-coding-handbook/)
+- [Agent file hierarcy guide](https://amitray.com/claude-md-vs-agents-md-memory-md-skills-md-context-md-guide-2026/)
 
 DevOps
 
