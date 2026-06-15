@@ -35,3 +35,7 @@ Development
 Learning Roadmap
 
 - [Developers Roadmap by roles or skills](https://roadmap.sh/)
+
+Labs
+
+- [Labs that covers the DevOps life cycle design, code, build, security, test](https://github.com/jaricsng/ai-assisted-devops-labs)
