@@ -1,2 +1,4 @@
 *.ppx
 *.pptx
+
+.DS_Store
